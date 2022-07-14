@@ -1,0 +1,10 @@
+#efgh {
+  display: flex;
+  justify-content: center;
+  background-color: aqua; }
+
+#post-content {
+  background-color: floralwhite; }
+
+#Delete {
+  background-color: red; }
